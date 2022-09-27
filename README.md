@@ -1,5 +1,5 @@
 # -Flutter_Events_THRIVE
-smartvisitingcard
+Smart Visiting Card
 
 
 A new Flutter project.
